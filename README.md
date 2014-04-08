@@ -4,6 +4,8 @@ fe-architect
 前端架构
 -
 
+- [angular入门教程](http://www.ituring.com.cn/book/1206)
+
 Web Design Focused
 -
 
