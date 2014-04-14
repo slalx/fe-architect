@@ -29,3 +29,8 @@ Web Development Focused
 - [ng-newsletter (AngularJS)](http://www.ng-newsletter.com/)
 - [Ember Weekly](http://emberweekly.com/)
 - [Today’s Readings by Aaron T. Grogg](http://aarontgrogg.com/blog/category/todays-readings/)
+
+开源类库
+-
+
+- [conditioner.js根据不同的环境加载不同的模块或者执行不同的行为](http://conditionerjs.com)
